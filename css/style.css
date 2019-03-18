@@ -1,0 +1,224 @@
+body, html {
+
+    background-color: rgb(189, 58, 58);
+
+
+
+}
+
+
+
+.index_index {    
+
+    float: left;
+
+    width: 250px;
+
+    height: 90px;
+
+    font-size: 30px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    background: rgb(36, 75, 75);
+
+    color: white;
+
+}
+
+
+
+.divheader{
+    display: fixed;
+    position: fixed;
+   
+
+    z-index: 99;
+
+    width: 100%;
+
+    margin: 0 0 30px;
+
+    overflow: auto;
+
+    border-bottom: 2px solid white;
+
+    background: gray;
+
+    color: aliceblue;
+
+    margin-top: -8px;
+
+    margin-left: -8px;
+
+
+
+}
+
+
+
+.head{
+
+    width: 100%;
+
+    max-width: 960px;
+
+    margin: 0 auto;
+
+    clear: both;
+
+    box-shadow: 5px 10px gray;
+
+}
+
+
+
+.index_about, .index_portfolio, .index_contact{
+
+    float: right;
+
+    margin-top: 25px;
+
+    display: inline-block;
+
+    padding-left: 15px;
+
+    margin-left: 15px;
+
+    line-height: 18px;
+
+    text-decoration: none;
+
+    color: white;
+
+    border-left: 1px solid white;
+
+
+
+}
+
+
+
+#ase {
+
+    padding-top: 130px;
+
+    
+
+
+
+}
+
+
+
+.asesection{
+
+    float:right;
+
+    width: 100%;
+
+    max-width: 650px;
+
+    padding: 2em;
+
+    margin: 0 0 40px;
+
+    border: 1px solid white;
+
+    background: whitesmoke;
+
+    color: white;
+
+    box-shadow: 10px 10px 10px darkslategray;
+
+
+
+}
+
+
+
+.indeximage {
+
+    float: left;
+
+    width: 250px;
+
+    height: auto;
+
+    margin-top: 10px;
+
+    margin-right: 55px;
+
+
+
+}
+
+
+
+.container {
+
+    width: 70%;
+
+    max-width: 860px;
+
+    margin: 0 auto;
+
+    clear: both;
+
+    
+
+}
+
+
+
+footer{
+
+    padding: 30px 0;
+
+    clear: both;
+
+    font-size: 34px;
+
+    color: black;
+
+    text-align: center;
+
+    background: grey;
+
+    border-top: 7px solid rgb(27, 26, 26);
+
+    margin-left: -417px;
+
+    width: 213.5%;
+
+}
+
+
+
+p{
+
+    color: black;
+
+}
+
+
+
+h1{
+
+    padding-bottom: 20px;
+
+    font-size: 30px;
+
+    line-height: 60px;
+
+    border-bottom: 3px solid #ddd;
+
+    color: blue;
+
+}
